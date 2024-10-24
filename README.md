@@ -1,7 +1,13 @@
+
+
 # RansomeWare_scraper_Details
 Automated Ransomware Data Collection Tool
  Purpose & Functionality
-- Automates data collection from ransomlook.io and ZoomInfo
+- Automates data 
+
+https://github.com/user-attachments/assets/426c9002-0f3e-4408-818f-9456caafbfee
+
+collection from ransomlook.io and ZoomInfo
 - Collects company details, websites, and additional information
 - Date-based filtering for targeted data collection
 - Handles captchas automatically
